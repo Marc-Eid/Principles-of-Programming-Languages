@@ -1,0 +1,5 @@
+this assignment served to put into practice: 
+	1. Anonymous classes
+
+This was practiced by passing an anonymous class that extends the Comparator interface and was passed as a parameter to the Collections.sor() function 
+to compare two objects. 
