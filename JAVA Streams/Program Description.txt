@@ -1,0 +1,2 @@
+The goal of this assignment is to use Java Streams API to read input,
+as well as to do functional programming on objects.
